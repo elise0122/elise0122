@@ -1,6 +1,6 @@
 👋 Hi, I’m Dolly
 - 🌱 I’m currently learning Python and doing some refreshers on HDL
-- This space will be solely a playground while I try to tap on my programming skills I left almost 1 year ago since this message is created
+- This space will be solely a playground while I try to tap on my programming skills
 - Wish me luck!
 
 <!---
